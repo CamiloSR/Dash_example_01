@@ -1,0 +1,39 @@
+p {
+  color: #0d222d;
+}
+
+.card {
+  padding: 0px !important;
+  border: 0px !important;
+  margin: 10px 0px 6px 6px !important;
+}
+
+#csr-categories label input {
+  margin-right: 8px !important;
+}
+
+#csr-all-categories label input {
+  margin-right: 8px !important;
+}
+
+#csr-platforms label input {
+  margin-right: 8px !important;
+}
+
+.modebar {
+  margin-top: -10px !important;
+}
+
+.plotly:hover .modebar-group {
+  background-color: rgba(128, 255, 212, 0, 5) !important;
+}
+
+.modebar-group a svg {
+  scale: 80% !important;
+  margin-bottom: 0.2em !important;
+  margin-right: 0.3em !important;
+}
+
+.DateInput_input {
+  font-size: 1rem;
+}
